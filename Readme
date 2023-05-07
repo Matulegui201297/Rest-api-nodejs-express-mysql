@@ -1,0 +1,13 @@
+- iniciar programa = npm init -y
+- instalar dependencias = npm i dontenv express promise-mysql
+- instalar dependencias de desarrollo = npm i @babel/cli @babel/core @babel/node @babel/preset-env morgan nodemon -D
+- crear carpeta source 
+- dentro de ella crear carpeta routes, database y controllers y archivos app.js, config.js e index.js
+- fuera de la carpeta source crear .babelrc y .env
+- en la carpeta babel configurar presets
+- en package.json configurar los scripts
+- lanzar el programa con npm run dev
+
+- dentro de routes crear = language.routes.js
+- dentro de controllers crear = language.controller.js
+
