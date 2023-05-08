@@ -10,4 +10,7 @@
 
 - dentro de routes crear = language.routes.js
 - dentro de controllers crear = language.controller.js
+- dentro de database crear = database.js
+
+// Quise realizar la conexion con mysql pero al ver que no podia empece a conectar la base de datos con MONGODB
 
